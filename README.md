@@ -11,7 +11,7 @@
   </a>
 </div>
 <div align= "center"><img src="https://komarev.com/ghpvc/?username=maximillian-m&style=flat-square&color=blue" alt=""/></div>
-### Hi there 👋
+<h1 align='center'><strong>Hi there 👋</strong><h2>
 
 <!--
 **maximillian-m/maximillian-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
