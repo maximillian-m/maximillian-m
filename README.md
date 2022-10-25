@@ -17,7 +17,11 @@
 </div>
   <h2>:computer: About me:</h2>
   <p> I am a goal oriented and passion driven :muscle: front-end web developer.</p>
+  
 - 🌱 I’m currently learning front-end libraries with ZuriTeam cohort 2
+  
 - 💬 Ask me about JavaScript
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maximillian-agwaigbo-78706b2244")
+  
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maximillian-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/maximillian-agwaigbo-78706b2244")
+  
 - ⚡ Fun fact: In my free time, I read articles related to tech, play chess and read music.
